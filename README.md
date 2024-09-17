@@ -7,19 +7,20 @@
 
 ![Снимок экрана от 2024-09-17 12-40-30](https://github.com/user-attachments/assets/3157b4dd-8390-4512-a1cb-e72ff36cf841)
 
-2. Откройте созданный файл `script.bash` для редактирования. Стандартный текстовый редактор в Linux Ubuntu это `gedit`. Выполните в терминале
+2. Далее в терминале открываю созданный файл `script.bash` для редактирования с помощью команды 'gedit'.
+
+![Снимок экрана от 2024-09-17 12-45-41](https://github.com/user-attachments/assets/b7eab254-8450-41e6-b932-df776f0fa34b)
+
+![Снимок экрана от 2024-09-17 12-45-16](https://github.com/user-attachments/assets/4d7586b7-59df-4661-b6ac-3bb0098e180c)
+
+3. Далее в файл вписываю следующий скрипт
+
 
 ```bash
-gedit script.bash
-```
-
-3. Впишите следующий скрипт
-
-```bash
-#!/bin/bash
-
 echo "Welcome to ITMO University"
 ```
+![Снимок экрана от 2024-09-17 12-52-02](https://github.com/user-attachments/assets/f02bc1c9-42d4-43a5-a064-0d300a918898)
+
 
 4. Сохраните файл. Закройте текстовый редактор `gedit`. Запустите bash-скрипт, выполнив в терминале
 
