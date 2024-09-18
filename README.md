@@ -49,7 +49,7 @@ bash script.bash Vasya Pupkin
 
 `Welcome, Vasya Pupkin`
 
-*Hint:* Скрипт должен работать для любых имен, даже если это Benedict Timothy Carlton Cumberbatch.
+*Hint:* Скрипт должен работать для любых имен, даже если это Benedict Timothy Carlton Cumberbatch
 
 ### Как успешно сдать работу?
  
