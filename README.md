@@ -50,3 +50,33 @@ bash script.bash Vasya Pupkin
 `Welcome, Vasya Pupkin`
 
 *Hint:* Скрипт должен работать для любых имен, даже если это Benedict Timothy Carlton Cumberbatch
+
+### Решение 
+
+1. Уже в созданном ранее файле прописываю следующее:
+```bash
+#!/bin/bash 
+echo "Welcome, "
+```
+![Вставленное изображение](https://github.com/user-attachments/assets/902c4136-c37c-4919-ac26-86d36b264c69) 
+
+2. Далее прописываю параметр командой строки, который позволит передать аргументы в скрипт при его запуске:
+
+![Вставленное изображение (2)](https://github.com/user-attachments/assets/f20cff35-afb2-4f00-b6a3-019dabd040e2)
+
+3. Зпаускаю скрпит в терминале:
+
+![Вставленное изображение (3)](https://github.com/user-attachments/assets/43911881-6e5a-4e48-b86b-3fafe0e85bff)
+
+4. Повторим с другим именем:
+
+![Вставленное изображение (4)](https://github.com/user-attachments/assets/fc937ce9-5265-4ac8-bdb7-fc470ebd6656)
+
+5. Та дааам
+
+P.s.: я так боялась этой лабы, изучала всю возможную литературу две недели, чтобы за четыре дня до сдачи сделать ее в три строчки за десять минут :)
+
+
+
+
+
