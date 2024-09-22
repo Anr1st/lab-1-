@@ -64,7 +64,7 @@ echo "Welcome, "
 
 ![Вставленное изображение (2)](https://github.com/user-attachments/assets/f20cff35-afb2-4f00-b6a3-019dabd040e2)
 
-3. Зпаускаю скрпит в терминале:
+3. Запускаю скрпит в терминале:
 
 ![Вставленное изображение (3)](https://github.com/user-attachments/assets/43911881-6e5a-4e48-b86b-3fafe0e85bff)
 
